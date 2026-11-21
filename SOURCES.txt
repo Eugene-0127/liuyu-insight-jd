@@ -1,0 +1,11 @@
+Implementation: original local Python/SQLite/Playwright system, 2026-11-21.
+Reference review only; no upstream model files, scripts, browser extensions, or services are installed.
+
+Reviewed structural ideas and page field names:
+https://github.com/Ryan-Zhao03/jd-review-collector-agent (MIT), bce84066a5d0f3717507f247bed7562332275626
+https://github.com/ZheLeiQIAN/Insight-Agent (MIT), 3259ef30e36bb23618136ba4def60a543cc31bec
+https://github.com/yigerenjingjing/JD_Spider, 7916874fd553967f7192cc6b770cd94b4ff568d9
+https://github.com/AlcatrazChris/AutoProductEvalution, e8ac3c024d234dd2f2406b3e23da3dd6fa545c0a
+
+The installed system does not import these repositories, their SKILL.md files, or their instruction text.
+No signed request modification, proxy rotation, captcha solving, or account credential entry is implemented.
